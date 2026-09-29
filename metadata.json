@@ -1,0 +1,6 @@
+{
+  "name": "AutoPatch AI - Autonomous Security Remediation Agent",
+  "description": "Autonomous 100% free security agent that scans GitHub repos with Semgrep, generates deterministic patches via Gemini, validates in Docker sandboxes, and opens Pull Requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
